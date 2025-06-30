@@ -1,0 +1,27 @@
+.button{
+        margin: 10px;
+        border-radius: 0.5rem;
+        display: grid;
+        place-items: center; 
+        aspect-ratio: 1/1;
+    }
+    .numberbtn{
+        background-color: rgb(244, 227, 203);
+        
+    }
+    .symbolbtn{
+        background-color: rgb(223, 189, 142);
+        }
+    .calc-screen{
+        font-size: 30px;  
+        height : 50px;
+        background-color: rgb(250, 245, 238);
+    }
+    .acbtn{
+        background-color: rgb(244, 227, 203);
+        margin: 10px;
+        border-radius: 0.5rem;
+        display: grid;
+        place-items: center; 
+        height: 40px;
+    }
