@@ -5,9 +5,13 @@
         place-items: center; 
         aspect-ratio: 1/1;
     }
+    
     .numberbtn{
         background-color: rgb(244, 227, 203);
         
+    }
+    .button:hover {
+        background-color: rgb(238, 178, 95);
     }
     .symbolbtn{
         background-color: rgb(223, 189, 142);
@@ -24,4 +28,10 @@
         display: grid;
         place-items: center; 
         height: 40px;
+    }
+    .acbtn:hover {
+        background-color: rgb(233, 183, 114);
+    }
+    .operator:hover{
+        background-color: rgb(244, 227, 203);
     }
